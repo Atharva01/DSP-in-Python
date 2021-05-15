@@ -1,3 +1,2 @@
-# DSP in Python
-Digital Signal Processing in Python
- 1.Denoising Data using FFT
+# Digital Signal Processing in Python
+1.Denoising Data using FFT
